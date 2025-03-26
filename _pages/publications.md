@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "About Me"
+permalink: /publications/
+title: "Publications"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /pub/
+  - /pub.html
 ---
 
 Hi! My name is Rui Hu (胡睿 in Chinese).

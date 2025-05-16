@@ -9,8 +9,8 @@ redirect_from:
 
 - [Beyond Squared Error: Exploring Loss Design for Enhanced Training of Generative Flow Networks](https://openreview.net/forum?id=4NTrco82W0)<br>
   <b><font color=blue>Rui Hu*</font></b>, Yifan Zhang\*, Zhuoran Li, Longbo Huang<br>
-  <i>The Thirteenth International Conference on Learning Representation</i> <font color=green>[ICLR]</font>, 2025. <font color=red>(Spotlight, Top 5%)</font> [[PDF](https://streek666.github.io/file/ICLR2025beyond.pdf)]
+  <i>The Thirteenth International Conference on Learning Representation</i> <font color=green>[ICLR]</font>, 2025. <font color=red>(Spotlight, Top 5%)</font> [[PDF](https://streek666.github.io/files/ICLR2025beyond.pdf)]
 
 - [Finite-Time Analysis of Discrete-Time Stochastic Interpolants](https://arxiv.org/abs/2502.09130)<br>
   Yuhao Liu, Yu Chen, <b><font color=blue>Rui Hu</font></b>, Longbo Huang<br>
-  <i>ArXiv preprint:2502.09130</i> [[PDF](https://streek666.github.io/file/ArXiv2025finite.pdf)]
+  <i>ArXiv preprint:2502.09130</i> [[PDF](https://streek666.github.io/files/ArXiv2025finite.pdf)]

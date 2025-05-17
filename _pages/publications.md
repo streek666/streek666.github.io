@@ -13,4 +13,4 @@ redirect_from:
 
 - [Finite-Time Analysis of Discrete-Time Stochastic Interpolants](https://arxiv.org/abs/2502.09130)<br>
   Yuhao Liu, Yu Chen, <b><font color=blue>Rui Hu</font></b>, Longbo Huang<br>
-  <i>ArXiv preprint:2502.09130</i> [[PDF](https://streek666.github.io/files/ArXiv2025finite.pdf)]
+  <i>Forty-Second International Conference on Machine Learning</i> <font color=green>[ICML]</font>, 2025. [[PDF](https://streek666.github.io/files/ArXiv2025finite.pdf)]
